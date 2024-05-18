@@ -24,6 +24,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 2 Create a **(VM) Virtual Machine** with **(no VPN)** in **Azure** and connect to your PC using **(RDC) Remote Desktop Protocol**.
 
 2.1 Open a browser and enter **portal.azure.com.**
+![VPN2 portalazurecom](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/7ced96bd-1214-4ba5-9936-eba19500153a)
 
 ![](RackMultipart20240518-1-nonpfk_html_cf9100774d5fb42.png)
 
