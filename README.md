@@ -51,7 +51,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 2.7 **Deployment is in progress,** your resources are being created. Afterwards it will say ****** Your deployment is complete**.
 
-![](RackMultipart20240518-1-nonpfk_html_e43c63606a0005c8.png)
+![VPN8 Your deployment is complete](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/b302010a-b22f-4aea-80a0-8cc2b3ff0b2e)
 
 2.8 Click **Go to resource.** Copy and Paste the Public IP Address: **52.163.223.175**** **
 
