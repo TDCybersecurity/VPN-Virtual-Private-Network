@@ -12,7 +12,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 - **Anonymity:** Makes your online actions harder to trace back to you, enhancing your anonymity online.
 
 1 In your browser type in **whatismyipaddress.com**
-
+![VPN1 WhatismyIPAddress](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/5276774c-118e-4cc7-a6c8-de72d421239a)
 ![](RackMultipart20240518-1-nonpfk_html_9d52d1543893b735.jpg)
 
 1.1 Take note of the information.
