@@ -61,7 +61,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 3.2 Paste **Public IP Address**** 52.163.223.175 **into the** Computer **field and click on** Connect.**
 
-![](RackMultipart20240518-1-nonpfk_html_718eccb0452943cb.png)
+![Screenshot 2024-05-17 231347](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/44b7e87c-e8b3-4b16-a9c0-27f36e6ced9d)
 
 3.3 Enter your credentials. Click on **More choices** the **Use a different account.**
 
@@ -154,7 +154,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 | --- | --- | --- | --- | --- |
 | 138.199.21.197 | DataCamp Limited | Shinjuku City | Tokyo | Japan |
 
-4.9. Browse **Netflix** to see that you are getting **Netflix in Japan** because your **Proton VPN** is in **Japan**.
+4.9.4 Browse **Netflix** to see that you are getting **Netflix in Japan** because your **Proton VPN** is in **Japan**.
 ![VPN Japan](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/44cbe46e-9bc8-450e-aeca-69423360694f)
 
 
