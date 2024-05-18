@@ -123,8 +123,8 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 4.8 Open file and **complete installation** pop up box, with **Language**  **English**** OK **then** Next **,** Next, and Install.**
 
 4.9 Sign in with **email** and **password**. They send a **verify** to your email. **Verify your email to continue to Proton**.
+![VPN 19 VPN Proton email verification](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/c923bbe4-b6af-4719-903f-084e910a5d67)
 
-![](RackMultipart20240518-1-nonpfk_html_8a85c9da36132a4e.png)
 
 4.9.1 Go to **Windows Search Bar** to find **Proton VPN**.
 
