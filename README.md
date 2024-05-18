@@ -82,6 +82,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 3.9.1 **Confirm and start browsing****.**
 
 3.9.2 Type **whatismyipaddress.com** in the **Edge browser.** Note the results are different from your PC
+![VPN11 VM IPAddress in Singapore](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/13902ea6-5a1d-446e-a152-4f8209ce7641)
 
 
 | **IPv4**| **Internet Service Provider**| **City**| **Region**| **Country**|
