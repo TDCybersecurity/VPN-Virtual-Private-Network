@@ -115,8 +115,8 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 
 4.6 Go to **Downloads** and open the **ProtonVPN\_v3.2.11** application.
+![VPN17 Install Proton VPN](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/690c53db-2f6e-4109-ae2f-89325342c1fb)
 
-![](RackMultipart20240518-1-nonpfk_html_17aa72f70d507622.png)
 
 4.7 Access **Proton VPN** on the **VM** and sign in using **Email** and **Password**. Click on **Sign in** enter Email
 
