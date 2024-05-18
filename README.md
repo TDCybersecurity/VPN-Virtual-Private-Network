@@ -26,9 +26,8 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 2.1 Open a browser and enter **portal.azure.com.**
 ![VPN2 portalazurecom](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/7ced96bd-1214-4ba5-9936-eba19500153a)
 
-![](RackMultipart20240518-1-nonpfk_html_cf9100774d5fb42.png)
 
-2.2 Click on Virtual machines. Click on **Create** and select **Azure virtual machine** from the drop-down menu. ![](RackMultipart20240518-1-nonpfk_html_66473e6b58b52d82.png)
+2.2 Click on Virtual machines. Click on **Create** and select **Azure virtual machine** from the drop-down menu. ![]![VPN3 select Azure virtual machine](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/c9a5a58c-df82-485c-a50a-8eedd3fc142e)
 
 2.3 **Create a virtual machine** by clicking on **Create new** under the Resource group\* box. Name it **ChicagoPD** and click **OK.**
 
