@@ -83,6 +83,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 3.9.2 Type **whatismyipaddress.com** in the **Edge browser.** Note the results are different from your PC
 
+
 | **IPv4**| **Internet Service Provider**| **City**| **Region**| **Country**|
 | --- | --- | --- | --- | --- |
 | 52.163.223.175 | Microsoft | Singapore | Singapore | Singapore |
