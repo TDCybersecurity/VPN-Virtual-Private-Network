@@ -31,7 +31,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 2.3 **Create a virtual machine** by clicking on **Create new** under the Resource group\* box. Name it **ChicagoPD** and click **OK.**
 
-![](RackMultipart20240518-1-nonpfk_html_5004b67f09d25033.jpg)
+![VPN4 Create new](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/52247f8d-2d18-4630-99c9-190d907a12b3)
 
 ![](RackMultipart20240518-1-nonpfk_html_3e608cd0c2a85f7e.jpg)
 
