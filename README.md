@@ -41,9 +41,9 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ChicagoPD | (Asia Pacific) Southeast Asia | No infrastructure redundancy required | Standard | Windows 10 Pro, version 22H2 -x64 Gen2 | Standard\_D4s\_v3 – 4 vcpus, 16 GiB memory ($182.50/month) | **Terry**| **Berry1234567**|
 
-![](RackMultipart20240518-1-nonpfk_html_6f1fa4a2f8d8de44.jpg)
+![VPN6 Create a VM1](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/785597b7-48d5-4b58-b5c4-f28d63d0ab9f)
+![VPN7 Create a VM2](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/aab7cba8-9eac-4883-b0b4-fc81924d33f2)
 
-![](RackMultipart20240518-1-nonpfk_html_a97dce1abd292b58.jpg)
 
 2.5  I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
 
