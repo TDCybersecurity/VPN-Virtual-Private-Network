@@ -145,16 +145,19 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 | 138.199.21.197 | Wireguard | Japan | Japan | Japan |
 
 4.9.3 Go back to **whatismyipaddress.com** and **refresh it** to confirm the IP Address and location.
+![VPN23What is myIP address3](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/2748230d-1996-4053-9aae-173f3d140ea2)
 
-![](RackMultipart20240518-1-nonpfk_html_4b46b0351755086a.png)
+
+
 
 | **IPv4**| **Internet Service Provider**| **City**| **Region**| **Country**|
 | --- | --- | --- | --- | --- |
 | 138.199.21.197 | DataCamp Limited | Shinjuku City | Tokyo | Japan |
 
 4.9. Browse **Netflix** to see that you are getting **Netflix in Japan** because your **Proton VPN** is in **Japan**.
+![VPN Japan](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/44cbe46e-9bc8-450e-aeca-69423360694f)
 
-![](RackMultipart20240518-1-nonpfk_html_209d6c9fcd239bc0.png)
+
 
 5 Go back to your **(VM) Virtual Machine** and **DELETE all your Resources** in the Azure account to **avoid charges**.
 
