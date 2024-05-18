@@ -1,1 +1,155 @@
 # VPN-Virtual-Private-Network
+**(VPN) Virtual Private Networks: Set up and Usage of Proton VPN**
+
+A VPN, or Virtual Private Network, is a service that creates a **secure** and **private** connection to the internet. It acts like a **private tunnel**, _hiding your online activities from others_ and making your internet use more **secure** and **anonymous**.
+
+**Benefits of using a VPN**
+
+- **Privacy Protection:** Hides your IP Address and online activities from hackers, advertisers, and government surveillance.
+- **Security:** Encrypts your internet connection, protecting your data from being intercepted by cybercriminals, especially on public Wi-Fi.
+- **Access to Restricted Content:** Allows you to bypass geographical restrictions to access websites, streaming services, and content that may be blocked in your location.
+- **Safe Browsing:** Reduces the risk of malware and phishing attacks by blocking malicious websites.
+- **Anonymity:** Makes your online actions harder to trace back to you, enhancing your anonymity online.
+
+1 In your browser type in **whatismyipaddress.com**
+
+![](RackMultipart20240518-1-nonpfk_html_9d52d1543893b735.jpg)
+
+1.1 Take note of the information.
+
+| **IPv4**| **Internet Service Provider**| **City**| **Region**| **Country**|
+| --- | --- | --- | --- | --- |
+| 100.2.XX.XXX | Verizon | New York City | New York | United States |
+
+2 Create a **(VM) Virtual Machine** with **(no VPN)** in **Azure** and connect to your PC using **(RDC) Remote Desktop Protocol**.
+
+2.1 Open a browser and enter **portal.azure.com.**
+
+![](RackMultipart20240518-1-nonpfk_html_cf9100774d5fb42.png)
+
+2.2 Click on Virtual machines. Click on **Create** and select **Azure virtual machine** from the drop-down menu. ![](RackMultipart20240518-1-nonpfk_html_66473e6b58b52d82.png)
+
+2.3 **Create a virtual machine** by clicking on **Create new** under the Resource group\* box. Name it **ChicagoPD** and click **OK.**
+
+![](RackMultipart20240518-1-nonpfk_html_5004b67f09d25033.jpg)
+
+![](RackMultipart20240518-1-nonpfk_html_3e608cd0c2a85f7e.jpg)
+
+2.4 Type in **Instance details**:
+
+| **Virtual machine name\***| **Region\***| **Availability Option**| **Security Type**| **Image\***| **Size\***| **Username\***| **Password\***|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ChicagoPD | (Asia Pacific) Southeast Asia | No infrastructure redundancy required | Standard | Windows 10 Pro, version 22H2 -x64 Gen2 | Standard\_D4s\_v3 – 4 vcpus, 16 GiB memory ($182.50/month) | **Terry**| **Berry1234567**|
+
+![](RackMultipart20240518-1-nonpfk_html_6f1fa4a2f8d8de44.jpg)
+
+![](RackMultipart20240518-1-nonpfk_html_a97dce1abd292b58.jpg)
+
+2.5  I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
+
+2.6 **Review + Create** then wait for ****  **Validation passed** then click on **Create.**
+
+2.7 **Deployment is in progress,** your resources are being created. Afterwards it will say ****** Your deployment is complete**.
+
+![](RackMultipart20240518-1-nonpfk_html_e43c63606a0005c8.png)
+
+2.8 Click **Go to resource.** Copy and Paste the Public IP Address: **52.163.223.175**** **
+
+**3 Establish a (RDC) Remote Desktop Connection**
+
+3.1 Go to the Windows Start Menu Search bar and enter **Remote Desktop Connection**
+
+3.2 Paste **Public IP Address**** 52.163.223.175 **into the** Computer **field and click on** Connect.**
+
+![](RackMultipart20240518-1-nonpfk_html_718eccb0452943cb.png)
+
+3.3 Enter your credentials. Click on **More choices** the **Use a different account.**
+
+3.4 Enter **User name**** Terry **and** Password ****Berry 1234567** and click on **OK.** RDC radio box pop-up opens. Click on **Yes**
+
+3.5 Your Virtual Machine opens, note the IP Address up top.
+
+3.6 **Choose privacy settings for your device**. Select NO for all of them.
+
+![](RackMultipart20240518-1-nonpfk_html_1f72fde0e79db30f.png)
+
+3.7 They are Location, Diagnostic data, Tailored experiences, Find my device, Inking &typing, and Advertising ID Click **Accept**
+
+3.8 Ignore installation set-up guide and then open **Microsoft Edge.** Click on **Start without your data.** Uncheck **Bring over data.**
+
+3.9Click on **Continue without this data.** Uncheck **Make you Microsoft experience more useful to you.**
+
+3.9.1 **Confirm and start browsing****.**
+
+3.9.2 Type **whatismyipaddress.com** in the **Edge browser.** Note the results are different from your PC
+
+| **IPv4**| **Internet Service Provider**| **City**| **Region**| **Country**|
+| --- | --- | --- | --- | --- |
+| 52.163.223.175 | Microsoft | Singapore | Singapore | Singapore |
+
+![](RackMultipart20240518-1-nonpfk_html_c5fdac510b3d13a7.png)
+
+**4 Access**  **Proton VPN**  **inside your PC so that you can download and install it in the VM which is in Singapore.**
+
+4.1 Google Proton VPN. Click on **Create account.**
+
+![](RackMultipart20240518-1-nonpfk_html_bde12071307f46ff.png) Click on **sign up for free.**
+
+![](RackMultipart20240518-1-nonpfk_html_7c88bcc924227c7b.png)
+
+4.2 Enter **Email address** and click on **Start using**  **Proton VPN****. **Choose your own password** Berry1234567**
+
+4.3 Copy the URL **account.protonvpn.com/downloads** from **your PC** and paste it **into the VM browser** to open.
+
+4.4 Sign in using **Email address** and **Proton VPN**  **password**** Berry1234567 **. Click on** Sign in**.
+
+![](RackMultipart20240518-1-nonpfk_html_d75def89ceb7e101.png)
+
+4.5 On Get Proton VPN for Windows click on **Download**  **Proton VPN**.
+
+![](RackMultipart20240518-1-nonpfk_html_5ccda6295fa045be.png)
+
+4.6 Go to **Downloads** and open the **ProtonVPN\_v3.2.11** application.
+
+![](RackMultipart20240518-1-nonpfk_html_17aa72f70d507622.png)
+
+4.7 Access **Proton VPN** on the **VM** and sign in using **Email** and **Password**. Click on **Sign in** enter Email
+
+4.8 Open file and **complete installation** pop up box, with **Language**  **English**** OK **then** Next **,** Next, and Install.**
+
+4.9 Sign in with **email** and **password**. They send a **verify** to your email. **Verify your email to continue to Proton**.
+
+![](RackMultipart20240518-1-nonpfk_html_8a85c9da36132a4e.png)
+
+4.9.1 Go to **Windows Search Bar** to find **Proton VPN**.
+
+![](RackMultipart20240518-1-nonpfk_html_9f30728a177c1c36.png)
+
+4.9.2 When get into **ProtonVPN**, where are you **CONNECTED**, what is your **IP Address**.
+
+![](RackMultipart20240518-1-nonpfk_html_f38bb379fcc6978d.png)
+
+|
+ |
+ |
+ |
+ |
+ |
+| --- | --- | --- | --- | --- |
+| 138.199.21.197 | Wireguard | Japan | Japan | Japan |
+
+4.9.3 Go back to **whatismyipaddress.com** and **refresh it** to confirm the IP Address and location.
+
+![](RackMultipart20240518-1-nonpfk_html_4b46b0351755086a.png)
+
+| **IPv4**| **Internet Service Provider**| **City**| **Region**| **Country**|
+| --- | --- | --- | --- | --- |
+| 138.199.21.197 | DataCamp Limited | Shinjuku City | Tokyo | Japan |
+
+4.9. Browse **Netflix** to see that you are getting **Netflix in Japan** because your **Proton VPN** is in **Japan**.
+
+![](RackMultipart20240518-1-nonpfk_html_209d6c9fcd239bc0.png)
+
+5 Go back to your **(VM) Virtual Machine** and **DELETE all your Resources** in the Azure account to **avoid charges**.
+
+Thank you for stopping by……..hope this improved your understanding of VPNs.
