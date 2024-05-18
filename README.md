@@ -33,7 +33,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 ![VPN4 Create new](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/52247f8d-2d18-4630-99c9-190d907a12b3)
 
-![](RackMultipart20240518-1-nonpfk_html_3e608cd0c2a85f7e.jpg)
+![VPN5 Name ChicagoPD](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/75b1cc84-f9f7-46be-af71-76155dafc549)
 
 2.4 Type in **Instance details**:
 
