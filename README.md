@@ -107,7 +107,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 4.4 Sign in using **Email address** and **Proton VPN**  **password**** Berry1234567 **. Click on** Sign in**.
 
-![](RackMultipart20240518-1-nonpfk_html_d75def89ceb7e101.png)
+
 
 4.5 On Get Proton VPN for Windows click on **Download**  **Proton VPN**.
 
