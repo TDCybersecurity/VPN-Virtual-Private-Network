@@ -71,7 +71,7 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 3.6 **Choose privacy settings for your device**. Select NO for all of them.
 
-![](RackMultipart20240518-1-nonpfk_html_1f72fde0e79db30f.png)
+![VPN10VMIPaddressandPrivacysettings](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/f689a3d3-ba0a-4f5e-9f31-d6156ada53c2)
 
 3.7 They are Location, Diagnostic data, Tailored experiences, Find my device, Inking &typing, and Advertising ID Click **Accept**
 
