@@ -106,12 +106,13 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 4.3 Copy the URL **account.protonvpn.com/downloads** from **your PC** and paste it **into the VM browser** to open.
 
 4.4 Sign in using **Email address** and **Proton VPN**  **password**** Berry1234567 **. Click on** Sign in**.
+![VPN13protonemail](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/f2fae347-dcab-4e84-91af-c7766f871f2e)
 
 
 
 4.5 On Get Proton VPN for Windows click on **Download**  **Proton VPN**.
+![VPN15 Proton Download](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/10ac466c-8173-4abe-819d-6118b420a4c6)
 
-![](RackMultipart20240518-1-nonpfk_html_5ccda6295fa045be.png)
 
 4.6 Go to **Downloads** and open the **ProtonVPN\_v3.2.11** application.
 
