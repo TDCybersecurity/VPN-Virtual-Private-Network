@@ -127,12 +127,13 @@ A VPN, or Virtual Private Network, is a service that creates a **secure** and **
 
 
 4.9.1 Go to **Windows Search Bar** to find **Proton VPN**.
+![VPN20 Proton Start Bar](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/49283f23-4a0f-404b-8a1e-b7d1069f7b44)
 
-![](RackMultipart20240518-1-nonpfk_html_9f30728a177c1c36.png)
+
 
 4.9.2 When get into **ProtonVPN**, where are you **CONNECTED**, what is your **IP Address**.
+![VPN23ProtonJapan](https://github.com/TDCybersecurity/VPN-Virtual-Private-Network/assets/142702123/51e537ac-f897-4106-8084-99c586cc36c4)
 
-![](RackMultipart20240518-1-nonpfk_html_f38bb379fcc6978d.png)
 
 |
  |
